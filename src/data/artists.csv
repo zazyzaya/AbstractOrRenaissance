@@ -1,0 +1,51 @@
+first-name,name,years,genre,count,lable
+Amedeo,Amedeo Modigliani,1884 - 1920,Expressionism,193,11
+Vasiliy,Vasiliy Kandinskiy,1866 - 1944,"Expressionism,Abstractionism",88,-1
+Diego,Diego Rivera,1886 - 1957,"Social Realism,Muralism",70,-1
+Claude,Claude Monet,1840 - 1926,Impressionism,73,14
+Rene,Rene Magritte,1898 - 1967,"Surrealism,Impressionism",194,-1
+Salvador,Salvador Dali,1904 - 1989,Surrealism,139,3
+Edouard,Edouard Manet,1832 - 1883,"Realism,Impressionism",90,-1
+Andrei,Andrei Rublev,1360 - 1430,Byzantine Art,99,1
+Vincent,Vincent van Gogh,1853 – 1890,Post-Impressionism,877,8
+Gustav,Gustav Klimt,1862 - 1918,"Symbolism,Art Nouveau",117,-1
+Hieronymus,Hieronymus Bosch,1450 - 1516,Northern Renaissance,137,18
+Kazimir,Kazimir Malevich,1879 - 1935,Suprematism,126,13
+Mikhail,Mikhail Vrubel,1856 - 1910,Symbolism,171,4
+Pablo,Pablo Picasso,1881 - 1973,Cubism,439,9
+Peter,Peter Paul Rubens,1577 - 1640,Baroque,141,10
+Pierre-Auguste,Pierre-Auguste Renoir,1841 - 1919,Impressionism,336,14
+Francisco,Francisco Goya,1746 - 1828,Romanticism,291,0
+Frida,Frida Kahlo,1907 - 1954,"Primitivism,Surrealism",120,-1
+El,El Greco,1541 - 1614,Mannerism,87,7
+Albrecht,Albrecht Dürer,1471 - 1528,Northern Renaissance,328,18
+Alfred,Alfred Sisley,1839 - 1899,Impressionism,259,14
+Pieter,Pieter Bruegel,1525 - 1569,Northern Renaissance,134,18
+Marc,Marc Chagall,1887 - 1985,Primitivism,239,5
+Giotto,Giotto di Bondone,1266 - 1337,Proto Renaissance,119,6
+Sandro,Sandro Botticelli,1445 - 1510,Early Renaissance,164,17
+Caravaggio,Caravaggio,1571 - 1610,Baroque,55,10
+Leonardo,Leonardo da Vinci,1452 - 1519,High Renaissance,143,2
+Diego,Diego Velazquez,1599 - 1660,Baroque,128,10
+Henri,Henri Matisse,1869 - 1954,"Impressionism,Post-Impressionism",186,-1
+Jan,Jan van Eyck,1395 - 1441,Northern Renaissance,81,18
+Edgar,Edgar Degas,1834 - 1917,Impressionism,702,14
+Rembrandt,Rembrandt,1606 - 1669,Baroque,262,10
+Titian,Titian,1488 - 1576,"High Renaissance,Mannerism",255,-1
+Henri,Henri de Toulouse-Lautrec,1864 – 1901,Post-Impressionism,81,8
+Gustave,Gustave Courbet,1819 - 1877,Realism,59,19
+Camille,Camille Pissarro,1830 - 1903,"Impressionism,Post-Impressionism",91,-1
+William,William Turner,1775 - 1851,Romanticism,66,0
+Edvard,Edvard Munch,1863 - 1944,"Symbolism,Expressionism",67,-1
+Paul,Paul Cezanne,1839 – 1906,Post-Impressionism,47,8
+Eugene,Eugene Delacroix,1798 – 1863,Romanticism,31,0
+Henri,Henri Rousseau,1844 – 1910,Primitivism,70,5
+Georges,Georges Seurat,1859 – 1891,Post-Impressionism,43,8
+Paul,Paul Klee,1879 – 1940,"Expressionism,Abstractionism,Surrealism",188,-1
+Piet,Piet Mondrian,1872 – 1944,Neoplasticism,84,12
+Joan,Joan Miro,1893 – 1983,Surrealism,102,3
+Andy,Andy Warhol,1928 – 1987,Pop Art,181,16
+Paul,Paul Gauguin,1848 – 1903,"Symbolism,Post-Impressionism",311,-1
+Raphael,Raphael,1483 – 1520,High Renaissance,109,2
+Michelangelo,Michelangelo,1475 – 1564,High Renaissance,49,2
+Jackson,Jackson Pollock,1912 – 1956,Abstract Expressionism,24,15
